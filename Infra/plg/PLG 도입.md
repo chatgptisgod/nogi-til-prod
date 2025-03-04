@@ -1,6 +1,9 @@
-![IMAGE](https://raw.githubusercontent.com/nogi-bot/resources/main/chatgptisgod/images/fe9e92da-c10f-4253-bc87-be330f54e5b2-loki.png)  
+# Loki  
+* 아주 좋은 친구  
+* 야무져  
+![IMAGE](https://raw.githubusercontent.com/nogi-bot/resources/main/chatgptisgod/images/ea41732b-5522-4aed-b844-c6c0ca5bc66d-loki.png)  
   
-![IMAGE](https://raw.githubusercontent.com/nogi-bot/resources/main/chatgptisgod/images/18f4aa75-a817-4d6d-b20b-8dbac5116649-prometheus.png)  
+![IMAGE](https://raw.githubusercontent.com/nogi-bot/resources/main/chatgptisgod/images/40ba640d-14aa-4d49-bdec-6e1868dccba9-prometheus.png)  
 ## PLG 성공!  
 ```java  
   private void logStartTilResults(List<NotionStartTILResult> notionStartTILResults) {
